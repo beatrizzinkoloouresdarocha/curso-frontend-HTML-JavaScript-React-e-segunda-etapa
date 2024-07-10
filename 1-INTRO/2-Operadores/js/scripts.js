@@ -33,5 +33,12 @@ console.log("testando a/n quebra linha");
 
 console.log("Espaçamento /t | de tab");
 
-// Concatenação //
-console.log("oi, " +" tudo " +" bem ?")
+// 6-Concatenação //
+console.log("oi, " +" tudo " +" bem ?");
+
+console.log("testando, " +" com " +" crase!");
+
+// 7-Template Strings //
+console.log('A soma de 2 + 2 é: ${2 + 2} ')
+
+console.log('Podemos executar qualquer coisas aqui ${console.log("teste)}');
