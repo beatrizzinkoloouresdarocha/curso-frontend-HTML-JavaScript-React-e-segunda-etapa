@@ -29,5 +29,9 @@ console.log(typeof"um texto");
 console.log(typeof'mais um texto');
 
 // 5-Simbolos especiais e3m strings //
-console.log("testando a/n quebra linha")
+console.log("testando a/n quebra linha");
 
+console.log("Espaçamento /t | de tab");
+
+// Concatenação //
+console.log("oi, " +" tudo " +" bem ?")
