@@ -34,3 +34,8 @@ const nomeCompleto="Ana Paula";
 console.log(nomecompleto);
 
 console.log(nomecompleto);
+
+let _teste = "ok";
+let $teste = "ok";
+
+console.log(_teste, $teste);
