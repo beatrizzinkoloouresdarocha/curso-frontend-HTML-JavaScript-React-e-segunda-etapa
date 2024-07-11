@@ -26,3 +26,11 @@ b=20,
 c=30;
 
 console.log(a,b,c);
+
+const nomecompleto= "Beatriz Zinko Loures da Rocha";
+
+const nomeCompleto="Ana Paula";
+
+console.log(nomecompleto);
+
+console.log(nomecompleto);
