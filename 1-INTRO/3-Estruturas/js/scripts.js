@@ -105,3 +105,21 @@ if(q >5 && w >20 ){
     }
 
 // 9-else if //
+if (1 > 2){
+    console.log("teste")
+}else if(2 > 3){
+    console.log("teste 2")
+}else if(5 >1){
+    console.log("Agora sim!")
+}
+
+const userName="Beatriz"
+const  userage= 23
+
+if(userName ==="josé"){
+    console.log("Bem vindo josé!")
+}else if(userName === "Beatriz" && userAge === 23){
+    console.log("Olá Beatriz, voçê têm 23 anos!")
+}else{
+    console.log("Nenhuma condiçâo aceita!")
+}
