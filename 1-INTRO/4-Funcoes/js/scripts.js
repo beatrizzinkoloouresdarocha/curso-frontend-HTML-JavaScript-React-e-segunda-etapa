@@ -48,3 +48,5 @@ testandoEscopo();
 console.log('y fora da função é: ${y}');
 
 testandoEscopo();
+
+// 4-escopo animado //
