@@ -47,3 +47,7 @@ console.log(_teste, $teste);
 
 // alert //
 alert("testando");
+
+const z = 10;
+
+alert(`o número é  ${z}.`);
