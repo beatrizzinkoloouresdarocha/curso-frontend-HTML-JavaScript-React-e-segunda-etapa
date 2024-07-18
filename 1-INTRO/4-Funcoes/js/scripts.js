@@ -82,3 +82,20 @@ const parOUimpar=(n) =>{
 parOUimpar(5)
 
 parOUimpar(10)
+
+// 6- mais sobre arrow functions //
+//const raizQuadrada = (x) => {
+    //return x * x;
+//}
+
+//console.log(raizQuadrada(4));
+
+//const raizQuadrada2 = (x) => x * x;
+
+//console.log(raizQuadrada2(5));
+
+//console.log(raizQuadrada(12));
+
+//const helloworld = () => console.log("Hello world");
+
+//helloworld();
