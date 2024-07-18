@@ -69,3 +69,16 @@ const tesArrow =() => {
 }
 
 tesArrow();
+
+const parOUimpar=(n) =>{
+    if(n % 2 === 0){
+        console.log("Par")
+        return
+    }
+
+    console.log(impar);
+}
+
+parOUimpar(5)
+
+parOUimpar(10)
