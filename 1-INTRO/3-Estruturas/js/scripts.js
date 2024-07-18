@@ -53,3 +53,6 @@ console.log(_teste, $teste);
 //alert(`o número é  ${z}.`);
 
 // 5-Math //
+console.log(Math.max(5 ,2 ,10));
+
+console.log(Math.floor(5.14));
