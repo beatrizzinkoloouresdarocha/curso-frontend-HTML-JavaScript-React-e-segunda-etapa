@@ -50,3 +50,15 @@ console.log('y fora da função é: ${y}');
 testandoEscopo();
 
 // 4-escopo animado //
+let n = 10;
+
+if (true) {
+    let m = 30;
+
+    if (true) {
+        let m = 40;
+        console.log(m); // Isso imprimirá 40
+    }
+
+    // Aqui, m ainda é 30, porque o escopo interno do 'if' não altera o valor de m no escopo externo.
+}
