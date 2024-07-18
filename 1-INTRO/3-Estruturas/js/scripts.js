@@ -1,4 +1,4 @@
-// Variáveis //
+// 1-Variáveis //
 let nome = "Beatriz";
 
 console.log(nome);
@@ -11,7 +11,7 @@ const idade=22;
 
 console.log(idade);
 
-//idade =32;
+// 2-idade =32;
 
 console.log(typeof nome);
 
@@ -56,3 +56,7 @@ console.log(_teste, $teste);
 console.log(Math.max(5 ,2 ,10));
 
 console.log(Math.floor(5.14));
+
+console.log(Math.ceil(5.14));
+
+// 6- console //
