@@ -103,3 +103,5 @@ if(q >5 && w >20 ){
     }else{
         console.log("Os números não são os mais altos");
     }
+
+// 9-else if //
