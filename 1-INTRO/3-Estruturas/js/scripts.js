@@ -86,3 +86,20 @@ console.log(user === "João");
 console.log(user === " Maria");
 
 // else //
+const leggedIn = false
+
+if(leggedIn){
+    console.log("Esta autenticado!")
+  }else{
+    console.log("Nâo esta autenticado")
+}
+
+
+const q =10
+const w =15
+
+if(q >5 && w >20 ){
+    console.log("Números mais altos");
+    }else{
+        console.log("Os números não são os mais altos");
+    }
