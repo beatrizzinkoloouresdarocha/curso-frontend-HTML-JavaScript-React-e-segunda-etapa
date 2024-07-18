@@ -62,3 +62,10 @@ if (true) {
 
     // Aqui, m ainda é 30, porque o escopo interno do 'if' não altera o valor de m no escopo externo.
 }
+
+// 5- arroy function //
+const tesArrow =() => {
+    console.log("Esta é uma arrow function")
+}
+
+tesArrow();
