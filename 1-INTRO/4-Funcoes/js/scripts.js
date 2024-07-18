@@ -33,3 +33,18 @@ const resultado =soma(a,b);
 console.log(resultado);
 
 console.log(soma(c,d));
+
+// 3- escopo da função //
+let y =10
+
+function testandoEscopo(){
+    let y =20
+    console.log('y dentro da função é: ${y}')
+}
+
+
+testandoEscopo();
+    y =15;
+console.log('y fora da função é: ${y}');
+
+testandoEscopo();
