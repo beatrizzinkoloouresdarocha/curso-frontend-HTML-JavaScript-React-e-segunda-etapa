@@ -41,6 +41,9 @@ let $teste = "ok";
 console.log(_teste, $teste);
 
 // 3-promt //
-const age = prompt("Digite a sua idade:");
+//const age = prompt("Digite a sua idade:");
 
-console.log(`Você tem ${age} anos.`);
+//console.log(`Você tem ${age} anos.`);
+
+// alert //
+alert("testando");
