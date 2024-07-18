@@ -45,9 +45,11 @@ console.log(_teste, $teste);
 
 //console.log(`Você tem ${age} anos.`);
 
-// alert //
-alert("testando");
+// 4-alert //
+//alert("testando");
 
-const z = 10;
+//const z = 10;
 
-alert(`o número é  ${z}.`);
+//alert(`o número é  ${z}.`);
+
+// 5-Math //
