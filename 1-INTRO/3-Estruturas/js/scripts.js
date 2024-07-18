@@ -84,3 +84,5 @@ if(user == "Maria"){
 console.log(user === "João");
 
 console.log(user === " Maria");
+
+// else //
