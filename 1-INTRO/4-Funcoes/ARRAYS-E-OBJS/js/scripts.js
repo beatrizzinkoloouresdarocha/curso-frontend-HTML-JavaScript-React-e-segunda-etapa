@@ -90,3 +90,33 @@ console.log(person.address.city);
 console.log(person.skills);
 
 console.log(person.introduce());
+
+// 7-mais sobre objetos //
+const obj ={
+    a:"teste",
+    b:true
+}
+
+console.log(obj instanceof Object);
+
+//8- mutação //
+const a={
+    name:"Beatriz"
+}
+
+a.age= 31;
+
+console.log("a");
+console.log("b");
+
+delete b.age;
+
+console.log(a);
+console.log(b);
+
+// 10- loop em array //
+const users =["Beatriz","ana","maria"]
+
+for(let i =0;i< users.length;i++){
+    console.log('listando o usúario ${usúario{i}}')
+}
