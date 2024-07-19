@@ -39,22 +39,13 @@ const text = "algum texto";
 
 console.log(text.toLocaleLowerCase);
 
-console.log(textindexof("g"));
 
-// 5-objetos //
-//const person = {
-   // name: "Beatriz",
-    //age:23,
-    //job: "Programadora",
-//};
+// 5- criando e deletando propriedades//
+const car ={
+    engine:2.0,
+    brand:"VW",
+    model:"Tinguin",
+    km:20000
+};
 
-//console.log(person);
-
-//console.log(person.name);
-
-//console.log(person.name.length);
-
-//console.log(typeof person);
-
-// 6- criando e deletando prpriedades //
 
