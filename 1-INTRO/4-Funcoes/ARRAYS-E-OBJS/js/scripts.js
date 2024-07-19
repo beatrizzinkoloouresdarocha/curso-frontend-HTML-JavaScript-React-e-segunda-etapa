@@ -55,3 +55,6 @@ console.log(textindexof("g"));
 //console.log(person.name.length);
 
 //console.log(typeof person);
+
+// 6- criando e deletando prpriedades //
+
