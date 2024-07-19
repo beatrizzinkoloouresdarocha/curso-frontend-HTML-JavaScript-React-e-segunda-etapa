@@ -29,3 +29,29 @@ const myName = "Beatriz";
 console.log(myName.length);
 
 // 4-métodos //
+const otherNumber =[1,2,3]
+
+const allNumbers = numbers.concat(otherNumber)
+
+console.log(allNumbers);
+
+const text = "algum texto";
+
+console.log(text.toLocaleLowerCase);
+
+console.log(textindexof("g"));
+
+// 5-objetos //
+//const person = {
+   // name: "Beatriz",
+    //age:23,
+    //job: "Programadora",
+//};
+
+//console.log(person);
+
+//console.log(person.name);
+
+//console.log(person.name.length);
+
+//console.log(typeof person);
