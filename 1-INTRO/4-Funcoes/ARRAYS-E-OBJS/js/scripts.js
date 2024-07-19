@@ -48,4 +48,45 @@ const car ={
     km:20000
 };
 
+console.log(car);
 
+car.doors=4
+
+console.log(car);
+
+delete car.km;
+
+console.log(car);
+
+// 6-objetos //
+const person = {
+    name: "Beatriz",
+    age: 23,
+    job: "Programadora",
+    address: {
+        street: "Rua das Flores",
+        number: 123,
+        city: "São Paulo",
+        state: "SP",
+        postalCode: "12345-678"
+    },
+    skills: ["JavaScript", "HTML", "CSS", "React"],
+    isEmployed: true,
+    introduce: function() {
+        return `Olá, meu nome é ${this.name} e eu sou uma ${this.job}.`;
+    }
+};
+
+console.log(person);
+
+console.log(person.name);
+
+console.log(person.name.length);
+
+console.log(typeof person);
+
+console.log(person.address.city);
+
+console.log(person.skills);
+
+console.log(person.introduce());
